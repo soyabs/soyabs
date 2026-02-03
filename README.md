@@ -80,43 +80,11 @@ You can **copy-paste this directly into your `README.md`** of your GitHub profil
 
 ---
 
-### 🕹️ Hacker Mindset Quiz (Interactive Feel)
+## 📈 Live Lab Stats
 
-```text
-Q: What is the most dangerous vulnerability?
-A) SQL Injection
-B) XSS
-C) Broken Access Control  ✅
-D) CSRF
-```
-
-> 💡 *Because logic flaws break every defense.*
-
----
-
-### 🧩 Guess the Port (Mini Game)
-
-```text
-Which service runs on port 443?
-🔹 FTP
-🔹 SSH
-🔹 HTTPS ✅
-🔹 SMTP
-```
-
----
-
-## 🚀 Learning Path
-
-```text
-✔ CEH v13
-✔ OWASP Top 10
-✔ DVWA / PortSwigger Labs
-✔ Network Fundamentals
-⏳ Advanced Web Exploitation
-⏳ Active Directory Attacks
-⏳ Cloud Security
-```
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/soyabs.png" />
+</p>
 
 ---
 
