@@ -1,10 +1,3 @@
-Absolutely 👍
-Below is a **designer-style, interactive GitHub Profile README** with **animations, mini-games, skill visuals, and clean layout**, while **including *all* the content you asked for**.
-
-You can **copy-paste this directly into your `README.md`** of your GitHub profile repo (`soyabs/soyabs`).
-
----
-
 ## 👋 Hi, I’m **@soyabs**
 
 <p align="center">
