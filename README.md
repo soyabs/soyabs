@@ -32,8 +32,10 @@ You can **copy-paste this directly into your `README.md`** of your GitHub profil
 ### 🔐 Cybersecurity
 
 <p>
+  <img src="https://img.shields.io/badge/Cyber%20Security-darkred?style=for-the-badge&logo=securityscorecard" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-black?style=for-the-badge&logo=hackthebox" />
   <img src="https://img.shields.io/badge/CEH-v13-red?style=for-the-badge&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/Penetration%20Testing-black?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-2b2b2b?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/OWASP%20Top%2010-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Web%20Security-orange?style=for-the-badge" />
 </p>
