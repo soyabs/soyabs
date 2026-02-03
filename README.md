@@ -54,10 +54,12 @@ You can **copy-paste this directly into your `README.md`** of your GitHub profil
 <p>
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/C%23-.NET-purple?style=for-the-badge&logo=dotnet" />
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
 </p>
+
 
 ---
 
