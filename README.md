@@ -82,8 +82,7 @@ You can **copy-paste this directly into your `README.md`** of your GitHub profil
 
 ## 📈 Live Lab Stats
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5852269" style='border:none;'></iframe>
-
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/soyabshaikh151.png)
 ---
 
 ## 🤝 Let’s Collaborate
