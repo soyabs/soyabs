@@ -44,10 +44,17 @@ You can **copy-paste this directly into your `README.md`** of your GitHub profil
 
 <p>
   <img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge&logo=burpsuite" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-2A9DF4?style=for-the-badge&logo=owasp" />
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark" />
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hydra-darkred?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Social%20Engineer%20Toolkit-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DVWA-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PortSwigger%20Labs-FF6F00?style=for-the-badge" />
 </p>
+
 
 ### 💻 Programming & Web
 
