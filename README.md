@@ -78,11 +78,6 @@ You can **copy-paste this directly into your `README.md`** of your GitHub profil
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
----
-
-## 📈 Live Lab Stats
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/soyabshaikh151.png" alt="Your Image Badge" />
 
 ---
 
